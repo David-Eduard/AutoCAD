@@ -2,7 +2,7 @@
    AutoCAD
 </h1>
 
-&nbsp; &nbsp; This is a "project" where I'm practicing schematics in AutoCAD. .
+&nbsp; &nbsp; This is a "project" where I'm practicing schematics in AutoCAD.
 
 ![image](https://github.com/user-attachments/assets/42437eca-d772-4d94-84b2-210c14fc9651)
 
